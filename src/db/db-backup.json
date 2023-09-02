@@ -1,0 +1,210 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "country": "United States",
+      "yearOfBirth": 1975,
+      "bookIds": [1, 7, 16]
+    },
+    {
+      "id": 2,
+      "name": "Jane Doe",
+      "country": "Canada",
+      "yearOfBirth": 1980,
+      "bookIds": [1, 17]
+    },
+    {
+      "id": 3,
+      "name": "David Johnson",
+      "country": "United Kingdom",
+      "yearOfBirth": 1968,
+      "bookIds": [1, 8, 18]
+    },
+    {
+      "id": 4,
+      "name": "Maria Garcia",
+      "country": "Spain",
+      "yearOfBirth": 1990,
+      "bookIds": [2, 9, 19]
+    },
+    {
+      "id": 5,
+      "name": "Andrea Kim",
+      "country": "South Korea",
+      "yearOfBirth": 1985,
+      "bookIds": [3, 10, 20]
+    },
+    {
+      "id": 6,
+      "name": "Miguel Rodriguez",
+      "country": "Mexico",
+      "yearOfBirth": 1972,
+      "bookIds": [3, 11]
+    },
+    {
+      "id": 7,
+      "name": "Sophie Martin",
+      "country": "France",
+      "yearOfBirth": 1995,
+      "bookIds": [4, 12]
+    },
+    {
+      "id": 8,
+      "name": "Hiroshi Tanaka",
+      "country": "Japan",
+      "yearOfBirth": 1987,
+      "bookIds": [4, 13]
+    },
+    {
+      "id": 9,
+      "name": "Elena Petrov",
+      "country": "Russia",
+      "yearOfBirth": 1982,
+      "bookIds": [5, 14]
+    },
+    {
+      "id": 10,
+      "name": "Ahmed Hassan",
+      "country": "Egypt",
+      "yearOfBirth": 1977,
+      "bookIds": [5, 15]
+    },
+    {
+      "id": 11,
+      "name": "Luisa Silva",
+      "country": "Brazil",
+      "yearOfBirth": 1993,
+      "bookIds": [6]
+    },
+    {
+      "id": 12,
+      "name": "Antonio Fernandez",
+      "country": "Argentina",
+      "yearOfBirth": 1965,
+      "bookIds": [6]
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "The Great Novel",
+      "yearOfPublishing": 2005,
+      "authorIds": [1, 2, 3]
+    },
+    {
+      "id": 2,
+      "title": "Mystery at Midnight",
+      "yearOfPublishing": 2010,
+      "authorIds": [4]
+    },
+    {
+      "id": 3,
+      "title": "Adventure Across the Seas",
+      "yearOfPublishing": 2015,
+      "authorIds": [5, 6]
+    },
+    {
+      "id": 4,
+      "title": "The Enigma Code",
+      "yearOfPublishing": 2008,
+      "authorIds": [7, 8]
+    },
+    {
+      "id": 5,
+      "title": "Secrets in the Shadows",
+      "yearOfPublishing": 2012,
+      "authorIds": [9, 10, 11]
+    },
+    {
+      "id": 6,
+      "title": "The Lost Expedition",
+      "yearOfPublishing": 2017,
+      "authorIds": [11, 12]
+    },
+    {
+      "id": 7,
+      "title": "The Mystery of Manor House",
+      "yearOfPublishing": 2009,
+      "authorIds": [7]
+    },
+    {
+      "id": 8,
+      "title": "In Search of Atlantis",
+      "yearOfPublishing": 2014,
+      "authorIds": [8, 9]
+    },
+    {
+      "id": 9,
+      "title": "The Spanish Treasure",
+      "yearOfPublishing": 2011,
+      "authorIds": [10, 11]
+    },
+    {
+      "id": 10,
+      "title": "Lost in the Sierra",
+      "yearOfPublishing": 2016,
+      "authorIds": [12]
+    },
+    {
+      "id": 11,
+      "title": "The Forbidden Island",
+      "yearOfPublishing": 2013,
+      "authorIds": [7, 8]
+    },
+    {
+      "id": 12,
+      "title": "The Seoul Affair",
+      "yearOfPublishing": 2018,
+      "authorIds": [9]
+    },
+    {
+      "id": 13,
+      "title": "El Dorado Quest",
+      "yearOfPublishing": 2007,
+      "authorIds": [10]
+    },
+    {
+      "id": 14,
+      "title": "Mayan Mystery",
+      "yearOfPublishing": 2012,
+      "authorIds": [11]
+    },
+    {
+      "id": 15,
+      "title": "The Eiffel Enigma",
+      "yearOfPublishing": 2019,
+      "authorIds": [12]
+    },
+    {
+      "id": 16,
+      "title": "Tokyo Conspiracy",
+      "yearOfPublishing": 2020,
+      "authorIds": [1]
+    },
+    {
+      "id": 17,
+      "title": "Russian Riddles",
+      "yearOfPublishing": 2011,
+      "authorIds": [2]
+    },
+    {
+      "id": 18,
+      "title": "The Pharaoh's Curse",
+      "yearOfPublishing": 2014,
+      "authorIds": [3]
+    },
+    {
+      "id": 19,
+      "title": "Jungle Secrets",
+      "yearOfPublishing": 2017,
+      "authorIds": [4]
+    },
+    {
+      "id": 20,
+      "title": "Tango in Buenos Aires",
+      "yearOfPublishing": 2010,
+      "authorIds": [5]
+    }
+  ]
+}
